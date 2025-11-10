@@ -12,7 +12,7 @@ export default function Products() {
             </h2>
             <p className="text-subtle-light max-w-2xl mx-auto">
               From our pastures and ponds to your plate, discover the exceptional quality of
-              GreenHarvest Farms.
+              Teebemzz Farms.
             </p>
           </div>
 

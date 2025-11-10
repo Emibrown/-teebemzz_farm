@@ -10,7 +10,7 @@ export default function Gallery() {
             A Glimpse of Our Farm
           </h2>
           <p className="text-subtle-light max-w-2xl mx-auto">
-            Take a look behind the scenes at GreenHarvest Farms, where quality and care come first.
+            Take a look behind the scenes at Teebemzz Farms, where quality and care come first.
           </p>
         </div>
 

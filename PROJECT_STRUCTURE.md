@@ -1,6 +1,6 @@
-# GreenHarvest Farms - Project Structure
+# Teebemzz Farms - Project Structure
 
-This document explains the organization and architecture of the GreenHarvest Farms website.
+This document explains the organization and architecture of the Teebemzz Farms website.
 
 ## Directory Structure
 

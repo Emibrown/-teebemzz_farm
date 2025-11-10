@@ -9,7 +9,7 @@ import type {
   FooterSection,
 } from '@/types';
 
-export const SITE_NAME = 'GreenHarvest';
+export const SITE_NAME = 'Teebemzz';
 export const SITE_TAGLINE = 'Fresh from Farm to Table';
 
 export const NAV_LINKS = [
@@ -29,9 +29,9 @@ export const HERO_CONTENT = {
 };
 
 export const ABOUT_CONTENT = {
-  title: 'About GreenHarvest Farms',
+  title: 'About Teebemzz Farms',
   description:
-    'Founded on the principles of sustainability and ethical animal husbandry, GreenHarvest Farms has been a family-owned operation for over three generations. We believe that great food starts with a healthy environment and happy animals. Our commitment to natural farming methods ensures that every product we offer is not only delicious but also wholesome and responsibly produced.',
+    'Founded on the principles of sustainability and ethical animal husbandry, Teebemzz Farms has been a family-owned operation for over three generations. We believe that great food starts with a healthy environment and happy animals. Our commitment to natural farming methods ensures that every product we offer is not only delicious but also wholesome and responsibly produced.',
   image:
     'https://lh3.googleusercontent.com/aida-public/AB6AXuBIt0vBjSGD0ZxnoRd6nm08KmCAm_jdA5_Tg_UeA1n43dHBJbl8PTgVGRUa4Llr9dysSudYmRC5fYekja1ZcxWZ_HY3GGSqOfg_W1sCSjbeHdYxDUJc97l1arB061Z0W52Ki2RRpoQasYlWDs8149wMAT5h99l4vYJzTEkZT2LH5WiAWtILkFyVkIN87qBQCZAKcb0mPlmgQ7HvaZh3C1R9XfYwmrtAqP5vbac3li3IjoYyMkHKgSUfAmH511zltnn0oUKDBXuDKcVI',
 };
@@ -159,7 +159,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
     quote:
-      "The quality of the chicken from GreenHarvest is unmatched. You can truly taste the difference. It's so fresh and flavorful, my family won't eat anything else! We are customers for life.",
+      "The quality of the chicken from Teebemzz is unmatched. You can truly taste the difference. It's so fresh and flavorful, my family won't eat anything else! We are customers for life.",
     author: 'Sarah L.',
     role: 'Chef & Home Cook',
     image:
@@ -195,9 +195,9 @@ export const FAQ_ITEMS: FAQItem[] = [
 ];
 
 export const CONTACT_INFO: ContactInfo = {
-  address: '123 Sustainable Way, Garde Valley, AG 45678',
-  phone: '(555) 123-4567',
-  email: 'contact@greenharvest.farm',
+  address: 'No 1, Halleluya Street, Oyigbo, River, Nigeria',
+  phone: '+234 701 047 0000',
+  email: 'contact@Teebemzz.com',
 };
 
 export const FOOTER_SECTIONS: FooterSection[] = [

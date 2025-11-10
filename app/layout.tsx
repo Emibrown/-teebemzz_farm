@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'GreenHarvest Farms - Fresh From Farm to Table',
+  title: 'Teebemzz Farms - Fresh From Farm to Table',
   description:
     'Experience the taste of nature with our sustainably raised poultry and fish. We are committed to ethical farming practices and delivering the highest quality products to your family.',
 };

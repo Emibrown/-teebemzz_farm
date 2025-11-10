@@ -54,7 +54,7 @@ export default function Footer() {
 
         {/* Copyright & Social */}
         <div className="mt-16 border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
-          <p>© 2024 GreenHarvest Farms. All Rights Reserved.</p>
+          <p>© 2025 Teebemzz Farms. All Rights Reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             {SOCIAL_LINKS.map((link) => (
               <Link key={link.label} href={link.href} className="hover:text-primary">
